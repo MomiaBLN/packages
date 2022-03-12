@@ -207,129 +207,116 @@
       }
     },
     "icv.ads": {
-      "version": "https://gitlab.com/icvlibraries/ads.git",
+      "version": "file:D:/Proyectos/Unity/Packages/Ads",
       "depth": 0,
-      "source": "git",
+      "source": "local",
       "dependencies": {
         "icv.basics": "0.0.1",
         "icv.store": "0.0.1"
-      },
-      "hash": "cdc9e0dc8c0c337ec4daffa72931832f749a96a3"
+      }
     },
     "icv.analytics": {
-      "version": "https://gitlab.com/icvlibraries/analytics.git",
+      "version": "file:D:/Proyectos/Unity/Packages/Analytics",
       "depth": 0,
-      "source": "git",
+      "source": "local",
       "dependencies": {
         "icv.basics": "0.0.1",
         "icv.utils": "0.0.1"
-      },
-      "hash": "5cb3cf1e195f8863d92025eca5c3d8703a4d6a1c"
+      }
     },
     "icv.applicationflow": {
-      "version": "https://gitlab.com/icvlibraries/applicationflow.git",
+      "version": "file:D:/Proyectos/Unity/Packages/Application's Flow",
       "depth": 0,
-      "source": "git",
+      "source": "local",
       "dependencies": {
         "icv.basics": "0.0.1",
         "icv.utils": "0.0.1"
-      },
-      "hash": "8af45306f8f3bb3d99ea545b144765a8a173e1b9"
+      }
     },
     "icv.basics": {
-      "version": "https://gitlab.com/icvlibraries/basics.git",
+      "version": "file:D:/Proyectos/Unity/Packages/Basics",
       "depth": 0,
-      "source": "git",
-      "dependencies": {},
-      "hash": "1cd193c76beb80003af79e0da530b0aeb58a0ace"
+      "source": "local",
+      "dependencies": {}
     },
     "icv.crosspromo": {
-      "version": "https://gitlab.com/icvlibraries/cross-promo.git",
+      "version": "file:D:/Proyectos/Unity/Packages/Cross Promo",
       "depth": 0,
-      "source": "git",
+      "source": "local",
       "dependencies": {
         "icv.basics": "0.0.1",
         "icv.store": "0.0.1"
-      },
-      "hash": "16931bb6a36c3d48008583ef83c62bc21af139e1"
+      }
     },
     "icv.iapurchasing": {
-      "version": "https://gitlab.com/icvlibraries/iapurchasing.git",
+      "version": "file:D:/Proyectos/Unity/Packages/In App Purchasing",
       "depth": 0,
-      "source": "git",
+      "source": "local",
       "dependencies": {
         "icv.basics": "0.0.1",
         "icv.store": "0.0.1"
-      },
-      "hash": "58dec0f4212d80bc31891cc0edccb714c7fafd9d"
+      }
     },
     "icv.localization": {
-      "version": "https://gitlab.com/icvlibraries/translationsystem.git",
+      "version": "file:D:/Proyectos/Unity/Packages/LocalizationSystem",
       "depth": 0,
-      "source": "git",
+      "source": "local",
       "dependencies": {
         "icv.basics": "0.0.1"
-      },
-      "hash": "b9d64dbf754a066ea28ab5498a4d6534b8091aff"
+      }
     },
     "icv.skinsystem": {
-      "version": "https://gitlab.com/icvlibraries/skinsystem.git",
+      "version": "file:D:/Proyectos/Unity/Packages/SkinSystem",
       "depth": 0,
-      "source": "git",
+      "source": "local",
       "dependencies": {
         "icv.basics": "0.0.1"
-      },
-      "hash": "43c945c012b84fa2612c0fbcb98aab7b71dd83db"
+      }
     },
     "icv.social": {
-      "version": "https://gitlab.com/icvlibraries/social.git",
+      "version": "file:D:/Proyectos/Unity/Packages/Social",
       "depth": 0,
-      "source": "git",
+      "source": "local",
       "dependencies": {
         "icv.basics": "0.0.1",
         "icv.utils": "0.0.1",
         "icv.uisystem": "0.0.1"
-      },
-      "hash": "f645737a7e9d5b24f7a8e1268fcab63ba737c37d"
+      }
     },
     "icv.sounds": {
-      "version": "https://gitlab.com/icvlibraries/sound.git",
+      "version": "file:D:/Proyectos/Unity/Packages/Sounds",
       "depth": 0,
-      "source": "git",
+      "source": "local",
       "dependencies": {
         "icv.basics": "0.0.1",
         "icv.utils": "0.0.1"
-      },
-      "hash": "a77b351d5cf6a46fe861f3485253ef9ef4023de6"
+      }
     },
     "icv.store": {
-      "version": "https://gitlab.com/icvlibraries/store.git",
+      "version": "file:D:/Proyectos/Unity/Packages/Store",
       "depth": 0,
-      "source": "git",
+      "source": "local",
       "dependencies": {
         "icv.basics": "0.0.1",
         "icv.utils": "0.0.1"
-      },
-      "hash": "fd2afd4e6f0593fe7cba469e21fe706bf1763d9a"
+      }
     },
     "icv.uisystem": {
-      "version": "https://gitlab.com/icvlibraries/uisystem.git",
+      "version": "file:D:/Proyectos/Unity/Packages/UI System",
       "depth": 0,
-      "source": "git",
+      "source": "local",
       "dependencies": {
         "icv.basics": "0.0.1",
         "icv.utils": "0.0.1"
-      },
-      "hash": "66e0e5eeb026f96bf7b7ec3a850ddd915a460264"
+      }
     },
     "icv.utils": {
-      "version": "https://gitlab.com/icvlibraries/utils.git",
+      "version": "file:D:/Proyectos/Unity/Packages/Utils",
       "depth": 0,
-      "source": "git",
+      "source": "local",
       "dependencies": {
         "icv.basics": "0.0.1"
-      },
-      "hash": "8506ae04dadd5f09c25a52be004bd05c92345d7b"
+      }
     },
     "com.unity.modules.ai": {
       "version": "1.0.0",
